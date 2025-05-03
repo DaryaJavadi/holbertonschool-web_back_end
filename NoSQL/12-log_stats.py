@@ -25,4 +25,3 @@ def log_stats():
 
 if __name__ == "__main__":
     log_stats()
-    
